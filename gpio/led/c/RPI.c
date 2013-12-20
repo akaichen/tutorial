@@ -15,7 +15,6 @@ int map_peripheral(struct bcm2835_peripheral *p)
 		return -1;
 	}
 
-	// void *mmap(void *start,size_t length, int prot, int flags, int fd, off_t offsize);
 	p->map = mmap(
 		NULL,
 		BLOCK_SIZE,
