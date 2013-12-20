@@ -1,3 +1,8 @@
+#------------------------------------------------
+# Control Led On and Off 
+#
+# Raspberry Pi#2: https://kktix.com/events/4de8d3
+#------------------------------------------------
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
